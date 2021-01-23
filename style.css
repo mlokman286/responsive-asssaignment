@@ -33,6 +33,7 @@ body{
     transform: scale(0.9);
     background-color: rgba(204, 204, 204, 0.335);
     border-radius: 1em;
+    height: 30vw;
 }
 .offers{
     border-radius: 2em;
