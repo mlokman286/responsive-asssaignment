@@ -1,0 +1,40 @@
+body{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif!important;
+    font-weight: 700 !important;
+}
+.penguin-container{
+    width: 85%;
+    margin: 0 auto;
+    padding:3%;
+}
+.background{
+    background-color:#FFFBF0;
+}
+
+.btn-penguin{
+    background-image: linear-gradient(#98B134, rgb(99, 136, 29));
+    font-size: 1.2em;
+    color: white;
+    padding: 2%;
+    width: 200px;
+    border: none;
+    border-radius: 0.5em;
+}
+.jackets{
+    border-radius: 2em;
+}
+.penguin-card{
+    border:none !important;
+    border-radius: 1em !important;
+    height: 88vh;
+
+}
+.penguin-img{
+    transform: scale(0.9);
+    background-color: rgba(204, 204, 204, 0.335);
+    border-radius: 1em;
+}
+.offers{
+    border-radius: 2em;
+    box-shadow:1px 1px 20px rgba(128, 125, 125, 0.219);
+}
